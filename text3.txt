@@ -1,1 +1,2 @@
 This is some sample text added to the file.
+ Here is some additional text that has been appended.

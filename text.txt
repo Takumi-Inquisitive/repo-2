@@ -1,3 +1,6 @@
 This is a simple text file.
 You can write any text you want here.
 Feel free to add more lines as needed.
+Here is an additional line of text.
+You can keep adding more lines to this file.
+This is another example of a line you can add.
